@@ -5,6 +5,6 @@ This repository containing my portfolio of data science projects for self learni
 ## Projects
 
 - Real or Not Real? NLP with Disasters Tweets: A model to predict which Tweets mention real disasters using Natural Language Processing and some ML Models.<br />
-  Highlights from the project:
+  <br />Highlights from the project:
   
-*Tools: NLTK, TfidfVectorizer, SKLearn;*<br /><br />
+  *Tools: NLTK, TfidfVectorizer, SKLearn;*<br /><br />
