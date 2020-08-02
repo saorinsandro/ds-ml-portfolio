@@ -4,7 +4,7 @@ This repository containing my portfolio of data science projects for self learni
 
 ## Projects
 
-- [Real or Not Real? NLP with Disasters Tweets](data-science-portfolio/Real_or_Not_NLP_with_Disaster_Tweets.ipynb): A model to predict which Tweets mention real disasters using Natural Language Processing and some ML Models.<br />
+- [Real or Not Real? NLP with Disasters Tweets](https://github.com/saorinsandro/data-science-portfolio/blob/master/Real_or_Not_NLP_with_Disaster_Tweets.ipynb): A model to predict which Tweets mention real disasters using Natural Language Processing and some ML Models.<br />
   <br />**Highlights from this project:**
   <br />- Preprocessing tweets data with text preprocessing pipeline using some NLTK tools;
   <br />- Transforming the data with TfIdfVectorizer;
